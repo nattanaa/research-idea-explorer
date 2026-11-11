@@ -1,0 +1,7 @@
+{
+  "deploy_url": "FILL IN AFTER DEPLOY: https://<service>-<number>.<region>.run.app",
+  "authors": [
+    "na3294"
+  ],
+  "path": "research"
+}
