@@ -1,6 +1,6 @@
 # Research Idea Explorer
 
-**Path:** Deep Research · **Live app:** `FILL IN AFTER DEPLOY` (no setup or API key needed)
+**Path:** Deep Research · **Live app:** `https://research-idea-explorer-git-188823946662.us-east4.run.app` (Columbia login required, no API key needed)
 
 ## Who it is for and what it does
 
